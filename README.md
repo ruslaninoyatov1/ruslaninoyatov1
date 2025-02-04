@@ -1,0 +1,4 @@
+- 👋 Hi, I’m: Ruslan Inoyatov
+- My Real Projects are in Gitlab (secure account)
+- 👀 I’m a Middle Python Developer and have experience in Backend 
+- 📫 How to reach me: telegram: @ruslaninoyatov, gmail:ruslaninoyatov100@gmail.com
