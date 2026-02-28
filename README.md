@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Ruslan and I'm a Python Backend developer, from Uzbekistan</h1>
+<h1 align="left">Hi 👋! My name is Ruslan </h1>
 
 ###
 
